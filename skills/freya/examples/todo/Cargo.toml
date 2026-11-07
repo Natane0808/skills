@@ -1,0 +1,10 @@
+[package]
+name = "todo"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+freya = "0.5"
+
+[dev-dependencies]
+freya-testing = "0.5"

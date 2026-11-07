@@ -13,6 +13,7 @@ Each skill lives in its own directory under [`skills/`](skills/) and follows the
 | Skill | Description | Install |
 | :--- | :--- | :--- |
 | [`nikala`](skills/nikala/) | Build SolidJS + Tailwind CSS v4 + Tauri v2 interfaces with the [Nikala UI](https://nikala.dev) copy-paste component system — CLI workflow, verified component/hook catalog, design tokens, desktop suite, and troubleshooting. | `npx skills add Natane0808/skills --skill nikala` |
+| [`freya`](skills/freya/) | Build Rust desktop GUIs with Freya 0.5 (Skia-rendered, declarative) — scaffolding a working Cargo.toml, run/debug/hot reload, layout and styling, hooks and state, events, animation, routing, and diagnosing real linker/Skia/toolchain failures. | `npx skills add Natane0808/skills --skill freya` |
 
 ## Layout
 
